@@ -1,2 +1,2 @@
-# tradymate.com
-Test
+# [tradymate.com](tradymate.com)
+[Tradymate - Coming soon.](tradymate.com)
