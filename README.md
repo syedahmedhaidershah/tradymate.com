@@ -2,6 +2,10 @@
 
 Public static site for **Tradymate**: mobile-first quotes, customers, dashboard, and invoicing for tradespeople and small field teams.
 
+## About Tradymate
+
+Tradymate helps trade and field businesses run quotes, customers, and invoicing from the phone—without heavy office software. It is built by **Emax Solutions Limited** (New Zealand). This site is the public-facing introduction; the full product is in the mobile apps and web app.
+
 ## Live site
 
 **[https://tradymate.com](https://tradymate.com)** (GitHub Pages — this repo’s `main` branch)
