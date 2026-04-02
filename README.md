@@ -1,5 +1,10 @@
 # tradymate.com — marketing site
 
+**GitHub “About” description (copy into the repo settings):**  
+Official **tradymate.com** marketing site on GitHub Pages — Tradymate brings quotes, customers, and invoicing to your phone for trade and field work. Product of **Emax Solutions Limited**, New Zealand.
+
+---
+
 Public static site for **Tradymate**: mobile-first quotes, customers, dashboard, and invoicing for tradespeople and small field teams.
 
 ## About Tradymate
